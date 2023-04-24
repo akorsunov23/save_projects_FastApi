@@ -1,0 +1,8 @@
+venv/
+/.idea/
+.idea/
+__pycache__/
+*.log
+*.db
+instance/
+.webassets-cache
